@@ -1,2 +1,3 @@
 # zookeeper-develop
 这里使用了Apache Curator的方法编写了一些zookeeper的程序，可以在项目中更方便的调用zookeeper。
+方法编写的并不多，但重要的是提供一种zookeeper的编程开发思路。基于原生zookeeper的API开发会更加繁琐。
